@@ -7,12 +7,7 @@ SNUC 4th year batch (2023-2027) - IOT 'A'
 
 This repo was created to practice devops lab
 
-
-
-
 SNUC 4th year batch (2023-2027) 
 
 
-AM doing this again
 
-Improved readme.md
